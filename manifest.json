@@ -1,0 +1,20 @@
+{
+  "name": "Lacto Celeiro",
+  "short_name": "LactoCeleiro",
+  "start_url": "App_Recolha_CORRIGIDA.html",
+  "display": "standalone",
+  "background_color": "#0a4a5e",
+  "theme_color": "#0a4a5e",
+  "icons": [
+    {
+      "src": "icone.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icone.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
